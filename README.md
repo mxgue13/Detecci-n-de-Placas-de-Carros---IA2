@@ -1,1 +1,1 @@
-# Detecci-n-de-Placas-de-Carros---IA2
+# Detección de Placas de Carros IA2

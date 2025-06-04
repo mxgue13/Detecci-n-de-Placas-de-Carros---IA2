@@ -1,6 +1,6 @@
 # Detección de Placas de Carros IA2
 
-![Banner](banner.png)
+![Banner](Banner.jpeg)
 
 Autores: Jose Miguel Pardo, Mateo Salazar Serrano, Juan Camilo Robayo
 

@@ -11,7 +11,7 @@ Detectar placas vehiculares en imágenes usando un modelo entrenado YOLOv5.
 ## Dataset
 El dataset utilizado fue descargado de Kaggle: [License Plate Dataset – Ronak Gohil](https://www.kaggle.com/datasets/ronakgohil/license-plate-dataset/data)
 
-Contiene 433 imágenes de vehículos con placas, junto con sus respectivas anotaciones en formato YOLO. Las imágenes varían en condiciones de iluminación, ángulos y distancias, lo que permite entrenar modelos más robustos. Las anotaciones incluyen solo una clase: license_plate.
+Contiene 1650 imágenes de vehículos con placas, junto con sus respectivas anotaciones en formato YOLO. Las imágenes varían en condiciones de iluminación, ángulos y distancias, lo que permite entrenar modelos más robustos. Las anotaciones incluyen solo una clase: license_plate.
 
 ## Modelos
 Ultralytics, Yolov5, Yolov8n, Yolov8s, Tesseract, EeasyOCR.

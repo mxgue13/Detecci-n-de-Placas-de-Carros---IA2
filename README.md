@@ -19,6 +19,6 @@ Ultralytics, Yolov5, Yolov8n, Yolov8s, Tesseract, EeasyOCR.
 ## Enlaces del proyecto
 - [Notebook](https://colab.research.google.com/drive/1IrIGIHIqLSAXmwOEJlMoOrxRrMSEvq0u)
 - [Repositorio del código](https://github.com/mxgue13/Detecci-n-de-Placas-de-Carros---IA2)  
-- [Video]()  
+- [Video](https://youtu.be/OtbFWuYEcDg)  
 - [Diapositivas](https://www.canva.com/design/DAGnhRpO_Hc/bE3dyepf_6nWb9zCPO84eQ/edit?utm_content=DAGnhRpO_Hc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
